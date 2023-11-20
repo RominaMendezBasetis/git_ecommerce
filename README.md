@@ -1,6 +1,6 @@
 # Online Store: Basetis ecommerce 🛒
 
-HOLLLAA 
+HOLLLAA ESTRELLAA!!!!
 
 Welcome to our online store! This simple eCommerce website allows you to browse and
 purchase products easily.
